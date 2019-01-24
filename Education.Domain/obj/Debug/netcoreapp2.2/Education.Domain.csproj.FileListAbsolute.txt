@@ -1,9 +1,0 @@
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\bin\Debug\netcoreapp2.2\Education.Domain.deps.json
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\bin\Debug\netcoreapp2.2\Education.Domain.dll
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\bin\Debug\netcoreapp2.2\Education.Domain.pdb
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\obj\Debug\netcoreapp2.2\Education.Domain.csproj.CoreCompileInputs.cache
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\obj\Debug\netcoreapp2.2\Education.Domain.AssemblyInfoInputs.cache
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\obj\Debug\netcoreapp2.2\Education.Domain.AssemblyInfo.cs
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\obj\Debug\netcoreapp2.2\Education.Domain.dll
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\obj\Debug\netcoreapp2.2\Education.Domain.pdb
-C:\Users\azam.aftab\source\repos\EducationApplication\Education.Domain\obj\Debug\netcoreapp2.2\Education.Domain.csprojAssemblyReference.cache

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.Domain\\Education.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.Domain\\Education.Domain.csproj",
       "projectName": "Education.Domain",
-      "projectPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.Domain\\Education.Domain.csproj",
+      "projectPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.Domain\\Education.Domain.csproj",
       "packagesPath": "C:\\Users\\azam.aftab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.Domain\\obj\\",
+      "outputPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

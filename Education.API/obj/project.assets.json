@@ -12110,11 +12110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.API\\Education.API.csproj",
+      "projectUniqueName": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.API\\Education.API.csproj",
       "projectName": "Education.API",
-      "projectPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.API\\Education.API.csproj",
+      "projectPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.API\\Education.API.csproj",
       "packagesPath": "C:\\Users\\azam.aftab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.API\\obj\\",
+      "outputPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12133,11 +12133,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.Data\\Education.Data.csproj": {
-              "projectPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.Data\\Education.Data.csproj"
+            "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.Data\\Education.Data.csproj": {
+              "projectPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.Data\\Education.Data.csproj"
             },
-            "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.Domain\\Education.Domain.csproj": {
-              "projectPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication\\Education.Domain\\Education.Domain.csproj"
+            "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.Domain\\Education.Domain.csproj": {
+              "projectPath": "C:\\Users\\azam.aftab\\source\\repos\\EducationApplication_Core\\Education.Domain\\Education.Domain.csproj"
             }
           }
         }
